@@ -38,3 +38,7 @@ td, th{
 tr:nth-child(odd){
 background-color: lightgray;
 }
+h6.Name:hover{
+    text-shadow: 1px 1px 1px greenyellow;
+    border: 1px solid blue;
+}
